@@ -5,7 +5,7 @@ This is a Sudoku solver app. To use it, provide an unsolved Sudoku puzzle with u
 
 Put your sudoku in input.txt
 
-Here is an example of input:  
+Here is an example input:  
 
 x16xxxxx2  
 xxxxxx6xx  
